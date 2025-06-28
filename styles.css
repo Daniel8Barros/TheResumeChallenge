@@ -1,0 +1,9 @@
+h2 {
+    
+}
+
+body {
+  margin: 0;
+  background-color: var(--body-bg-color);
+  scrollbar-color: var(--scrollbar-color) var(--scrollbar-bg-color);
+}
