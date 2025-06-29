@@ -3,7 +3,7 @@ body {
       background: #f8f8f8;
       margin: 0;
       padding: 2rem;
-      color: #333;
+      color: #555;
     }
     body {
       font-family: Arial, sans-serif;
@@ -37,4 +37,7 @@ body {
       font-weight: bold;
       margin-top: 1rem;
     }
-    
+    .imagens {
+      color: inherit; 
+      text-decoration: none;
+    }
